@@ -1,0 +1,11 @@
+## ArduinoAudioMixer config file
+
+## Default com to connect at startup
+serial_port = /dev/ttyUSB0
+
+## List of programs to bind to sliders
+program1 = spotify
+program2 = firefox, vivaldi-bin
+program3 = Rocket League, audio stream #1
+program4 = fallout4.exe, GTA5.exe, KillingFloor.exe, kfgame.exe, wine64-preloader, DOOMx64.exe, noita.exe, isaac-ng.exe, Fallout New Vegas Launcher, Fallout: New Vegas, CrashBandicootNSaneTrilogy.exe, java, csgo_linux64
+program5 = discord, chromium, WEBRTC VoiceEngine
